@@ -4,13 +4,14 @@
 
 export const environment = {
   production: false,
+  //Copy your firebase config here
   firebase: {
-    apiKey: "AIzaSyDN-ekTCi9P9pU0ofgH3BBs1T25RnVwIio",
-    authDomain: "talkjs-angular.firebaseapp.com",
-    projectId: "talkjs-angular",
-    storageBucket: "talkjs-angular.appspot.com",
-    messagingSenderId: "1095757418951",
-    appId: "1:1095757418951:web:1081abbe11ae6777c1c9e2"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   }
 };
 
